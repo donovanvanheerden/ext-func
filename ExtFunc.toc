@@ -1,0 +1,10 @@
+## Interface: 80200
+## Author: Donovan van Heerden
+## Version: 0.02
+## Title: ExtFunc
+## Notes: Extention Functions for general use.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: ExtFuncSaved
+
+ExtFunc.lua
